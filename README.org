@@ -1,0 +1,10 @@
+* ci-utils
+
+Utilities for running Common Lisp on CI platforms
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/neil-lindquist/ci-utils.git   |
+| commit  | 8f71d55  |
+| systems | ci-utils |
+|---------+-------------------------------------------|
+
